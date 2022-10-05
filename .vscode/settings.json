@@ -1,0 +1,14 @@
+{
+    "Lua.workspace.library": [
+        "c:/Users/ponom/Desktop/gittest1/Test1/",
+        "c:/Users/ponom/.vscode/extensions/nameouschangey.lifeboatapi-0.0.32/assets/lua/Common/",
+        "c:/Users/ponom/.vscode/extensions/nameouschangey.lifeboatapi-0.0.32/assets/lua/Microcontroller/",
+        "c:/Users/ponom/Desktop/gittest1/Test1/_build/libs/"
+    ],
+    "lifeboatapi.stormworks.libs.gitLibraries": [
+        {
+            "name": "LifeBoatAPI",
+            "gitUrl": "https://github.com/nameouschangey/Stormworks_LifeBoatAPI_MC.git"
+        }
+    ]
+}
