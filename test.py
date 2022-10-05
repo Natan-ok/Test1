@@ -3,3 +3,4 @@ print ("you are gay")
 
 #amir gay
 print("amir super mega gay!!!!")
+#f to pay respect
